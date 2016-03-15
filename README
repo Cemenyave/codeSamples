@@ -1,0 +1,7 @@
+This simple program is just a demonstration for Darray (dynamic lenght array, darray.h)
+and String (based on Darray, String.h) classes.
+It reads content of lorum_ipsum.txt file, stores it in the
+array word by word and prints each word on separate line in command line output.
+
+To build it run build.bat form Visula Studio command line tool.
+Precompiled main.exe is included.
